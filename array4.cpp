@@ -25,4 +25,5 @@ public:
         cin>>a[i]; 
     }
     a1.total_and_avg(a,5);
+    return 0;
  }
